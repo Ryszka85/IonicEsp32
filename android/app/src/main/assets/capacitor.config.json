@@ -1,0 +1,6 @@
+{
+	"appId": "io.ionic.starter",
+	"appName": "ionicEsp32Websocket",
+	"webDir": "www",
+	"bundledWebRuntime": false
+}

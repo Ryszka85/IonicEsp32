@@ -1,0 +1,7 @@
+{
+  "name": "ionicEsp32Websocket",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
